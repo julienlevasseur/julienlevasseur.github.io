@@ -1,0 +1,191 @@
+{
+    "basics": {
+        "name": "Julien Levasseur",
+        "label": " Automatisation, Orchestration, Continuous Integration and Delivery Evangelist.",
+        "picture": "",
+        "email": "contact@julienlevasseur.ca",
+        "website": "https://www.julienlevasseur.ca",
+        "summary": "",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Montréal",
+            "countryCode": "Canada",
+            "region": "QC"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "julienlevasseur",
+                "url": "https://github.com/julienlevasseur"
+            },
+            {
+                "network": "Linkedin",
+                "username": "levasseur-julien-4bb5129",
+                "url": "https://www.linkedin.com/in/levasseur-julien-4bb5129/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "OneSpan",
+            "position": "DevOps Engineer",
+            "website": "https://www.onespan.com",
+            "startDate": "2017-11",
+            "endDate": ", Montréal (Canada)",
+            "summary": "",
+            "highlights": [
+                "DevOps team technical lead.",
+                "Evangelist of the DevOps culture for the R&D service.",
+                "Drive POC and architect solutions for: Infrastructure as Code, Immutable Infrastructure, Monitoring, Logging centralization",
+                "Setup a Kubernetes cluster for R&D service lab.",
+                "Teams training on different technical topics (Terraform, Nomad, KitchenCI, AWS).",
+                "Participation in the architecture of the Immutable Infrastructure initiative."
+            ]
+        },
+        {
+            "company": "Desjardins",
+            "position": "Automation Specialist, Infrastructure as Code expert",
+            "website": "https://www.desjardins.com",
+            "startDate": "2017-08",
+            "endDate": "2017-11, Montréal (Canada)",
+            "summary": "",
+            "highlights": [
+                "Conduct of a proof of concept: Infrastructure as Code (Terraform).",
+                "Contribution to the ATM/Counter modernization: cookbooks optimization and evolution (Chef), application packages creation (Jenkins, Maven, Chef, Artifactory)."
+            ]
+        },
+        {
+            "company": "PBSC",
+            "position": "AWS & Virtualisation Specialist",
+            "website": "https://www.pbsc.com",
+            "startDate": "2016-10",
+            "endDate": "2017-08, Longueuil (Canada)",
+            "summary": "",
+            "highlights": [
+                "Deployment of a complete automation stack:",
+                "Infrastructure as Code (Terraform + custom python REST API)",
+                "Configuration Management (Chef + Consul)",
+                "Runbook & Jobs Automation (Rundeck + Terraform provisioners)",
+                "Monitoring Automation (Filebeat + Metricbeat + ES + Kibana + Zabbix)",
+                "Chef cookbooks development.",
+                "Participation in the design of email/sms management MicroService (Sping Boot)"
+            ]
+        },
+        {
+            "company": "Floe",
+            "position": "Linux SysAdmin",
+            "website": "https://www.floe.com",
+            "startDate": "2016-05",
+            "endDate": "2016-10, Montréal (Canada)",
+            "summary": "",
+            "highlights": [
+                "Exploitation et improvement of provisionning system (Ansible).",
+                "System referent for the Dev team.",
+                "Deployment of a Zabbix monitoring infrastructure",
+            ]
+        },
+        {
+            "company": "Ubisoft",
+            "position": "Linux SysAdmin",
+            "website": "https://www.ubisoft.com",
+            "startDate": "2015-02",
+            "endDate": "2016-05, Montréal (Canada)",
+            "summary": "",
+            "highlights": [
+                "Deployment of infrastructures solutions for 'Online' projects (web, multiplayer) on CentOS.",
+                "Deployment of projects infrastructure such as Rainbow 6 Siege, For Honor ...",
+                "Chef cookbooks creation and optimizations.",
+                "Contribution in automation stack development (OpenStack, Azure, AWS ...).",
+                "Development of ARTIC (Automatic Real-Time Incident Creator), a program to generate ServiceNow Incidents from Zabbix alerts.",
+                "Development of Torii , a RESTFUL API as single access point to deal with cloud.",
+            ]
+        },
+        {
+            "company": "Ubisoft",
+            "position": "Linux SysAdmin",
+            "website": "https://www.ubisoft.com",
+            "startDate": "2012-09",
+            "endDate": "2015-01, Montreuil (France)",
+            "summary": "",
+            "highlights": [
+                "Active participation to the deployment of processes to automate the configuration management via Chef.",
+                "Contribution in developemnt (Python) of Nagano orchestrator.",
+                "Deployment of infrastructures solutions for 'Online' projects (web, multiplayer) on CentOS (99%) and Debian.",
+                "Mercury (standardization of payment platforms) project's infrastructure establishment, system referent to dev teams and training of operational administrator in Bucharest.",
+                "WebServices project's dedicated administrator (for a year), junction point between WebServices dev team and IT teams.",
+                "Development of Leatherman (A pocket survival tool for admins (Python)) to make easier linux admin life and encourage utilization of Jira, ServiceNow, Zabbix and Chef.",
+                "Driving projects (subsidiary website, web games, information websites ...).",
+            ]
+        },
+        {
+            "company": "Hedera Technology",
+            "position": "System Developer",
+            "website": "",
+            "startDate": "2011-12",
+            "endDate": "2016-05, Montreuil (France)",
+            "summary": "",
+            "highlights": [
+                "System referent for Kanopya development (Cloud management system).",
+                "KVM and OpenNebula integration into Kanopya project.",
+                "Compilation of virtualization optimized Linux kernels for Debian Squeeze.",
+                "Integration of Cisco UCS and NetApp APIs in the Kanopya's backend.",
+                "Development of Kanopya's webui (JQuery).",
+            ]
+        },
+        {
+            "company": "Arcatem",
+            "position": "Linux SysAdmin",
+            "website": "",
+            "startDate": "2011-05",
+            "endDate": "2011-11, Nanterre (France)",
+            "summary": "",
+            "highlights": [    
+                "Unix/Linux Consultant"
+            ]
+        },
+        {
+            "company": "LBPoker",
+            "position": "Linux SysAdmin",
+            "website": "",
+            "startDate": "2010-04",
+            "endDate": "2011-05, Paris (France)",
+            "summary": "",
+            "highlights": [
+                "Servers administration Solaris (90%) and RHEL (10%)",
+                "Interlocutor with developpers, project managers and admins to standardize integration and deployment processes.",
+                "MySQL high availability project driven for www.wsop.fr website.",
+                "Documentation, processes and methods redaction.",
+            ]
+        },
+        {
+            "company": "Grab Techologies",
+            "position": "Unix SysAdmin",
+            "website": "",
+            "startDate": "2008-11",
+            "endDate": "2010-04, Québec (Canada)",
+            "summary": "",
+            "highlights": [
+                "Mandates achievement for Sun Microsystems Canada as Sun Solaris and Sun Storedge consultant.",
+                "Sun Microsystem servers installation under Solaris 10.",
+                "SAN Storedge arrays installation.",
+                "Development (Java) of a graphical interface to selecting Remote Desktop servers from Sunrays thin clients.",
+            ]
+        },
+        {
+            "company": "CIMR Services",
+            "position": "Network & System Admin",
+            "website": "",
+            "startDate": "2007-07",
+            "endDate": "2008-11, Rouen (France)",
+            "summary": "1rst year of Technicien Supérieur Administrateur Systèmes, sandwich course",
+            "highlights": [
+                "Corporate network administration.",
+                "Execution of assignments from clients.",
+            ]
+        },
+    ],
+    "skills": [
+
+    ]
+}
