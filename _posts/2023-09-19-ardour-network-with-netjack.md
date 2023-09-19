@@ -40,4 +40,4 @@ jackd -d net
 
 #### Client
 
-![diagram_3](https://raw.githubusercontent.com/julienlevasseur/julienlevasseur.github.ioc/master/assets/images/posts/2023-09-19-ardour-network-with-netjack/diagram_3.png)
+![diagram_3](https://raw.githubusercontent.com/julienlevasseur/julienlevasseur.github.io/master/assets/images/posts/2023-09-19-ardour-network-with-netjack/diagram_3.png)
