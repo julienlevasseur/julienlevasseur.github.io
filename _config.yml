@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: Julien Levasseur
-email: contact@julienlevasseur.ca
+email: julien.levasseur@free.fr
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://jekyll.julienlevasseur.ca
