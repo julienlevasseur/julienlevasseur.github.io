@@ -2,7 +2,11 @@
 layout: post
 title: Serverless job scheduling with AWS Lambda
 description: 
-tags: [serverless scheduling lambda terraform]
+tags:
+  - serverless
+  - scheduling
+  - lambda
+  - terraform
 image:
 ---
 

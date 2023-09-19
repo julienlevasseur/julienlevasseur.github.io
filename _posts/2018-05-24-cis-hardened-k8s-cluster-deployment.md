@@ -2,7 +2,9 @@
 layout: post
 title: CIS hardened K8S cluster deployment
 description: 
-tags: [CIS Kubernetes]
+tags:
+  - CIS
+  - Kubernetes
 image:
 ---
 
