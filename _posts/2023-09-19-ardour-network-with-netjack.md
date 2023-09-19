@@ -15,7 +15,7 @@ Have you ever heard of NetJack ?
 
 [Netjack](https://netjack.sourceforge.net/) is a Realtime Audio Transport over a generic IP Network, fully integrated into JACK.
 
-![diagram_1](https://raw.githubusercontent.com/julienlevasseur/jekyll-theme-basically-basic/master/assets/images/posts/2023-09-19-ardour-network-with-netjack/diagram_1.png)
+![diagram_1](https://raw.githubusercontent.com/julienlevasseur/julienlevasseur.github.io/master/assets/images/posts/2023-09-19-ardour-network-with-netjack/diagram_1.png)
 
 
 ## Starting NetJack
@@ -36,8 +36,8 @@ jackd -d net
 
 #### Server
 
-![diagram_2](https://raw.githubusercontent.com/julienlevasseur/jekyll-theme-basically-basic/master/assets/images/posts/2023-09-19-ardour-network-with-netjack/diagram_2.png)
+![diagram_2](https://raw.githubusercontent.com/julienlevasseur/julienlevasseur.github.io/master/assets/images/posts/2023-09-19-ardour-network-with-netjack/diagram_2.png)
 
 #### Client
 
-![diagram_3](https://raw.githubusercontent.com/julienlevasseur/jekyll-theme-basically-basic/master/assets/images/posts/2023-09-19-ardour-network-with-netjack/diagram_3.png)
+![diagram_3](https://raw.githubusercontent.com/julienlevasseur/julienlevasseur.github.ioc/master/assets/images/posts/2023-09-19-ardour-network-with-netjack/diagram_3.png)
