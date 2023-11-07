@@ -11,6 +11,8 @@ tags:
 
 # Nomad Pack
 
+![https://pkg.go.dev/static/shared/gopher/package-search-700x300.jpeg](https://pkg.go.dev/static/shared/gopher/package-search-700x300.jpeg)
+
 From Nomad Pack's project page:
 > Nomad Pack is a templating and packaging tool used with [HashiCorp Nomad](https://www.nomadproject.io/).
 > 
