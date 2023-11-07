@@ -8,7 +8,6 @@ tags:
   - Pack
   - Helm
   - Registry
-
 ---
 
 # Nomad Pack
