@@ -48,12 +48,12 @@ But 2 decades have passed and the technology evolved a lot. Lets looks at what i
 * A [DSP](https://en.wikipedia.org/wiki/Digital_signal_processor) (which is basically the combination of an ADC/DAC + a DSP + effects / dynamics processors)
 * Inputs / Ouputs (physical connections, usually XLR / Jack plugs and of course, modern mixers have network connectivity (such as Dante, AVB, NetJack ...))
 
-![digital_mixer_architecture](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/digital_mixer_architecture.png)
+![digital_mixer_architecture](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/digital_mixer_architecture.png?raw=true)
 
 As of the date I write this, a lot of modern mixers are even physically built around these 3 elements architecture.
 Here's an example from Waves where you can clearly distinguish the DSP + IOs (botoom chassis that is basically a DSP with IO extensions) and the Interface (controle surface + screen):
 
-![Waves eMotino LV1](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/waves_emotion_lv1.avif)
+![Waves eMotino LV1](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/waves_emotion_lv1.avif)
 
 If you need to sonorise a band with almost no latency, you better look directly at one of those commercial mixers equiped with a proper DSP (designed to treat audio signal). But if like me, you are a hobbyist, you don't plan to use you rig for live band (I do some 1 or 2 mics gigs, more like conference or disco-mobile setup where few ms latency is totally acceptable), then we can talk.
 
@@ -62,7 +62,7 @@ The idea is to delegate the DSP role to two devices:
 1. An USB Audio Recording Interface
 2. A Computer
 
-![diy_mixer_architecture](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_architecture.png)
+![diy_mixer_architecture](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_architecture.png?raw=true)
 
 The USB Interface will handle:
 
@@ -99,7 +99,7 @@ Now that we've set the design, let's tie it to the  requirements:
 
 So, the idea is to build an audio workflow like this:
 
-![diy_mixer_audio_workflow_diagram](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_audio_workflow_diagram.png)
+![diy_mixer_audio_workflow_diagram](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_audio_workflow_diagram.png?raw=true)
 
 After some research, I choose the following devices for the USB interface and Control Surface:
 
@@ -116,24 +116,24 @@ The choice was simple: I already had one and it totally fulfill the need:
 - Has also 1 Mic/Line mono input (useful for a additional / DJ microphone)
 
 Which gives the following setup (the screen is not pictured here):
-![diy_mixer_audio_workflow_visual](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_audio_workflow_visual.png)
+![diy_mixer_audio_workflow_visual](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_audio_workflow_visual.png?raw=true)
 
 To keep it portable, I designed a square chassis of 20"1/2 side (the USB interface being outside of this chassis mainly for height considerations (I needed my rig to fit under a shelf), but also it offer more flexibility for extension in the future (like an ADAT IO interface)).
 
-![diy_mixer_cad_1](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_cad_1.jpeg)
-![diy_mixer_cad_2](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_cad_2.jpeg)
-![diy_mixer_cad_3](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_cad_3.jpeg)
-![diy_mixer_cad_4](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_cad_4.jpeg)
-![diy_mixer_cad_5](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_cad_5.jpeg)
+![diy_mixer_cad_1](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_cad_1.jpeg?raw=true)
+![diy_mixer_cad_2](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_cad_2.jpeg?raw=true)
+![diy_mixer_cad_3](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_cad_3.jpeg?raw=true)
+![diy_mixer_cad_4](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_cad_4.jpeg?raw=true)
+![diy_mixer_cad_5](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_cad_5.jpeg?raw=true)
 
 Assembled:
 
-![diy_mixer_pic_1](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_pic_1.jpeg)
-![diy_mixer_pic_2](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_pic_2.jpeg)
-![diy_mixer_pic_3](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_pic_3.jpeg)
-![diy_mixer_pic_4](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_pic_4.jpeg)
-![diy_mixer_pic_5](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_pic_5.jpeg)
-![diy_mixer_pic_6](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_pic_6.jpeg)
+![diy_mixer_pic_1](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_pic_1.jpeg?raw=true)
+![diy_mixer_pic_2](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_pic_2.jpeg?raw=true)
+![diy_mixer_pic_3](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_pic_3.jpeg?raw=true)
+![diy_mixer_pic_4](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_pic_4.jpeg?raw=true)
+![diy_mixer_pic_5](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_pic_5.jpeg?raw=true)
+![diy_mixer_pic_6](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diy_mixer_pic_6.jpeg?raw=true)
 
 ### About this setup
 
@@ -197,10 +197,10 @@ you could imagine a scenario where a NetJack client is used as an IO extension t
 The example pictured by the screenshot below, is another use case where NetJack is used as a digital connection to route the output of the [Mixxx](https://mixxx.org/) software (DJ software) to the mixer. (basically replacing 4 jack cables by one ethernet cable)
 
 The client connects the outputs of Mixxx to the NetJack virtual plugs:
-![netjack client graph](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diagram_3.png)
+![netjack client graph](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diagram_3.png?raw=true)
 
 The mixer sees the 4 `playback_*` inputs from Mixxx under:
-![netjack server graph](../assets/images/posts/2024_04_01-DIY-hybrid-mixer/diagram_2.png)
+![netjack server graph](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/diagram_2.png?raw=true)
 
 > **NOTE**
 >
