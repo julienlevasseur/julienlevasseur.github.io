@@ -10,7 +10,7 @@ image:
 
 > Article under construction
 
-Ever wanted to have your Linux DAW doint network audio like mixers does with Dante ?
+Ever wanted to have your Linux DAW doing network audio like mixers does with Dante ?
 Have you ever heard of NetJack ?
 
 [Netjack](https://netjack.sourceforge.net/) is a Realtime Audio Transport over a generic IP Network, fully integrated into JACK.
