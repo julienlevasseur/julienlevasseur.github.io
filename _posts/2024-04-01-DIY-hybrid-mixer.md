@@ -53,7 +53,7 @@ But 2 decades have passed and the technology evolved a lot. Lets looks at what i
 As of the date I write this, a lot of modern mixers are even physically built around these 3 elements architecture.
 Here's an example from Waves where you can clearly distinguish the DSP + IOs (botoom chassis that is basically a DSP with IO extensions) and the Interface (controle surface + screen):
 
-![Waves eMotino LV1](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/waves_emotion_lv1.avif)
+![Waves eMotino LV1](https://github.com/julienlevasseur/julienlevasseur.github.io/blob/master/assets/images/posts/2024_04_01-DIY-hybrid-mixer/waves_emotion_lv1.avif?raw=true)
 
 If you need to sonorise a band with almost no latency, you better look directly at one of those commercial mixers equiped with a proper DSP (designed to treat audio signal). But if like me, you are a hobbyist, you don't plan to use you rig for live band (I do some 1 or 2 mics gigs, more like conference or disco-mobile setup where few ms latency is totally acceptable), then we can talk.
 
