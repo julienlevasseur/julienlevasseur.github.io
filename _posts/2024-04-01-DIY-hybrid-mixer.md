@@ -171,6 +171,11 @@ One of the reason for choosing the Presonus AudioBox 1818VSL was its extensibili
 
 And the computer allows network extensibility via different protocols (proprietary or open).
 
+### USB
+
+ALSA offer the ability to add additional device with Jack.
+[ALSA Documentation](https://jackaudio.org/faq/multiple_devices.html)
+
 ### ADAT
 
 The Presonus AudioBox 1818VSL accept up to 8 inputs and 8 outputs via ADAT. This is possible by connecting another device with ADAT capability (IOs).
